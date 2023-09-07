@@ -1,5 +1,3 @@
-# image-classification-projects
-
 Welcome to my repository dedicated entirely to Convolutional Neural Networks (CNNs). Here, you'll find a compilation of projects, experiments, and implementations where I've employed CNNs to tackle a variety of tasks, 
 primarily in the realm of image processing and computer vision. My work is underpinned by Python and leading deep learning frameworks, such as TensorFlow and PyTorch.
 
@@ -16,3 +14,8 @@ The repository showcases a multitude of applications and complexities associated
 
 - Image Classification with CNNs.
 - Transfer Learning experiments with pre-trained models.
+
+**Certificate**
+
+![image](https://github.com/caonhatlinhth/DeepLearning.AI-tensorflow-developer-CNN/assets/62228403/0a3621c8-e0ee-4f94-aa05-0b580cb9a6a4)
+
